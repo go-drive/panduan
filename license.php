@@ -1,3 +1,5 @@
+<?php 
+
 function get_remember($cookie_token) {
     session_start();
     global $conn;
@@ -197,3 +199,5 @@ $replace = $result['message'];
 $html = str_replace($search, $replace, $html);
 die( $html );
 }
+
+?>
