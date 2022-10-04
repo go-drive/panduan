@@ -1,106 +1,199 @@
- 
- $keystroke1 = base64_decode("d2RyMTU5c3E0YXllejd4Y2duZl90djhubHVrNmpoYmlvMzJtcA==");
-eval(gzinflate(base64_decode('hY7NCoJAFIVf5SQu5tIUzVpc9hxSeq0huwPzA4X47ikxEm7anu/82V7t+iRttE4aftkQgyq8iyyt67ggGjPFqqoyRG/lpsvL0yWJhBHlg9+oEdJ1ZqsBJw1DFWyvZmVgyYTq2iwxzzF5QXv3yvlOLS2EPXJxhQk8BP7vxHH5d/7+274wGpv5gyH9uzJNHw==')));
-$O0O0O0O0O0O0=$keystroke1[2].$keystroke1[32].$keystroke1[20].$keystroke1[11].$keystroke1[23].$keystroke1[15].$keystroke1[32].$keystroke1[1].$keystroke1[11];
-$keystroke2 = $O0O0O0O0O0O0("xes26:tr5bzf{8ydhog`uw9omvl7kicjp43nq", -1);
-$OO000OO000OO=$keystroke2[16].$keystroke2[12].$keystroke2[31].$keystroke2[23].$keystroke2[18].$keystroke2[24].$keystroke2[9].$keystroke2[20].$keystroke2[11];
-$O0000000000O=$keystroke1[30].$keystroke1[9].$keystroke1[6].$keystroke1[11].$keystroke1[27].$keystroke1[8].$keystroke1[19].$keystroke1[1].$keystroke1[11].$keystroke1[15].$keystroke1[32].$keystroke1[1].$keystroke1[11];
-eval($OO000OO000OO(base64_decode('LZa1rs
-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
-VpP4n1UpGiLODoyxDJPNj5pi31nMDofsUmMQV7ll
-RIbmYsqonb8mrPz8cTknb7vSAiwQldUlJX3TAV5X
-M1bFYs0uhe5QUoNeKcMeQZUMN8WcGI+9vFQMcYKg
-VAkiss07ax4oYiRM1A7ppUQaXvqF2grC4iw/Scmn
-1//JUGQk/w8oeGBuo/FC0WrP3LJIqaFEWfIQKoRz
-BgvXDhPj5WRvUmnFfGeagrfcFG42tNtXNKaZbLwZ
-RySdUce5r6PNZ/A52Sq4XJUxVKYghKPfICljtzdH
-jBmhua/LmQY9hKtWyIPYsV5tdwGySRrC/8k9Msix
-3uEcTwtDsvZCleGE5PTPwDFdAPz+WcHhrvr2ngE+
-6TqJlfWx/JKWupGI1EqcgNHFWdYGVYxb67DhP9rH
-GJcsm6ikIY+1jftArz+60d7sAcUaXE2uJPapz/Re
-G1M8wuzjjft6ZGXY1u2s7SMW7QnKnsdYwhM3mN1O
-XKSgbCApo9kN5emwClbsqAW80nZdmemrPiStMAwf
-u73NvfT2LUnGM+RFM7AJpFw+JP9bIOb4iLQI/bwu
-+0EhrgW2+ocQwnDlG0bByaEpE5DUeC5BT+y0FgYI
-FR8Pa/HNPj7J1HPALTz9x9baSd3MExUKBoxMlL36
-88O6cpwJ//2GGuO3ipx5TqU9wBFILlBA5TT/UTie
-fYE146rXsn22ZRBBq5+FHKfElsOe6pAbHiR1VFyX
-nGOIE5lYdDDykd1zIQCgylSlJgsR7E6y+5Vx6IoW
-ZzfQzlDK/GCxisOQqtccJcLa727S8Nn8qSJv806m
-M/asW4599tzSku1LC0PtkipbwQeq6xpISLA01kyP
-I076aM38q2mxJurWn9ePn2wJpFTdHtxMTt6BWbtC
-mnpegUGV2m51Cc6nm110Nv42WOLrisnmgJREe2d/
-AHcfstsSkLw8YvVolCEaQT5st+NCi0GrgYWgTTVA
-brlxvSlr1/zrzVKZiw2HHai+7levbWo52rE0AQrt
-HFNTYhRwhPCrCcBl/lSk5kzhBj+GNoUaPEYZ6dug
-AFrjU5ip20N3elGN0pl8ib2HmmOWBRwf4Zlcf8Dr
-2wW4/o5Ji9O1RX+Px8e4Eo0kYgTF/8hgKajBLrGW
-nh2TkYjgCmDlGFfxDW2jL9VNHq4epTGsMYwCtu0+
-JpK48AgbfIS0/S+/uT45K73gxaYusXWT2AFKp0ZR
-y7ogAe5YC+MxHAsI4GIfR937CQyXzuaeAEi3xEsy
-tzsWV5UB/d6xw79L4tkffsUXIWYvMbgbL4VxVkoy
-psJRbj063u8kR/k/C5GoLbixfAeGCsj5fcY6PhW7
-ei1Vr7VJphKDPo9F8+HemMG8SsBUvKJJXZEUR7Ot
-l3d5AQ6EQPpgN8LG1dG8g00xwUg/zDK2LLMZFGvv
-sP1VbwWjmpYQPWt06IC7H9debQ/N7Xn8XmkIfm2/
-Sp9g9NBS82R5wjy9aFpUEWfD/ETD9+uHOEU1mHks
-pRL5L4rxuJckiwqp2wTsm9mwnCoFVfKAmCYEv9z3
-/+/fff//4/')));
+function get_remember($cookie_token) {
+    session_start();
+    global $conn;
+    
+    $data = $conn->query("SELECT * FROM users WHERE cookie_token='".$cookie_token."'");
+    $hasil = $data->fetch_assoc();
+    
+    if($data->num_rows > 0) {
+         $_SESSION['user'] = $hasil;
+    }
+   
+}
 
+function tanggal_indo($tanggal)
+{
+    $bulan = array (1 =>   'Januari',
+                'Februari',
+                'Maret',
+                'April',
+                'Mei',
+                'Juni',
+                'Juli',
+                'Agustus',
+                'September',
+                'Oktober',
+                'November',
+                'Desember'
+            );
+    $split = explode('-', $tanggal);
+    return $split[2] . ' ' . $bulan[ (int)$split[1] ] . ' ' . $split[0];
+}
+
+function filter($data){
+
+$filter = stripslashes(strip_tags(htmlspecialchars(htmlentities($data,ENT_QUOTES))));
+
+return $filter;
+
+}
+
+function acak($length) {
+	$str = "";
+	$karakter = array_merge(range('A','Z'), range('a','z'), range('1','9'));
+	$max_karakter = count($karakter) - 1;
+	for ($i = 0; $i < $length; $i++) {
+		$rand = mt_rand(0, $max_karakter);
+		$str .= $karakter[$rand];
+	}
+	return $str;
+}
+
+function acak_nomor($length) {
+	$str = "";
+	$karakter = array_merge(range('1','9'));
+	$max_karakter = count($karakter) - 1;
+	for ($i = 0; $i < $length; $i++) {
+		$rand = mt_rand(0, $max_karakter);
+		$str .= $karakter[$rand];
+	}
+	return $str;
+}
+
+function time_elapsed_string($datetime, $full = false) {
+    $now = new DateTime;
+    $ago = new DateTime($datetime);
+    $diff = $now->diff($ago);
+
+    $diff->w = floor($diff->d / 7);
+    $diff->d -= $diff->w * 7;
+
+    $string = array(
+        'y' => 'Tahun',
+        'm' => 'Bulan',
+        'w' => 'Minggu',
+        'd' => 'Hari',
+        'h' => 'Jam',
+        'i' => 'Menit',
+        's' => 'Detik',
+    );
+    foreach ($string as $k => &$v) {
+        if ($diff->$k) {
+            $v = $diff->$k . ' ' . $v . ($diff->$k > 1 ? '' : '');
+        } else {
+            unset($string[$k]);
+        }
+    }
+
+    if (!$full) $string = array_slice($string, 0, 1);
+    return $string ? implode(', ', $string) . ' Yang Lalu' : 'Baru Saja';
+}
+
+function get_client_ip() {
+    $ipaddress = '';
+    if (getenv('HTTP_CLIENT_IP')) {
+        $ipaddress = getenv('HTTP_CLIENT_IP');
+    } elseif (getenv('HTTP_X_FORWARDED_FOR')) {
+        $ipaddress = getenv('HTTP_X_FORWARDED_FOR');
+    } elseif (getenv('HTTP_X_FORWARDED')) {
+        $ipaddress = getenv('HTTP_X_FORWARDED');
+    } elseif (getenv('HTTP_FORWARDED_FOR')) {
+        $ipaddress = getenv('HTTP_FORWARDED_FOR');
+    } elseif (getenv('HTTP_FORWARDED')) {
+        $ipaddress = getenv('HTTP_FORWARDED');
+    } elseif (getenv('REMOTE_ADDR')) {
+        $ipaddress = getenv('REMOTE_ADDR');
+    } else {
+        $ipaddress = 'UNKNOWN';
+    }
+    return $ipaddress;
+}
+
+function get_client_browser() {
+    $browser = '';
+    if(strpos($_SERVER['HTTP_USER_AGENT'], 'Netscape'))
+        $browser = 'Netscape';
+    else if (strpos($_SERVER['HTTP_USER_AGENT'], 'Firefox'))
+        $browser = 'Firefox';
+    else if (strpos($_SERVER['HTTP_USER_AGENT'], 'Chrome'))
+        $browser = 'Chrome';
+    else if (strpos($_SERVER['HTTP_USER_AGENT'], 'Opera'))
+        $browser = 'Opera';
+    else if (strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE'))
+        $browser = 'Internet Explorer';
+    else
+        $browser = 'Other';
+    return $browser;
+}
+
+function validate_date($date) {
+    $d = DateTime::createFromFormat('Y-m-d', $date);
+    return $d && $d->format('Y-m-d') == $date;
+}
+
+function infojson($url) {
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+        $data = curl_exec($ch);
+        curl_close($ch);
+                return $data;
+}
+
+function Show($tabel, $limit) {
+        global $conn;
+        $CallData = mysqli_query($conn, "SELECT * FROM ".$tabel." WHERE ".$limit);
+        $ThisData = mysqli_fetch_assoc($CallData);
+        return $ThisData;
+}
+
+function followers_count($data){
+    $id = file_get_contents("https://instagram.com/web/search/topsearch/?query=".$data);
+    $id = json_decode($id, true);
+    $count = $id['users'][0]['user']['follower_count'];
+    return $count;
+}
+
+function likes_count($data){
+    $id = file_get_contents("".$data."?&__a=1");
+    $id = json_decode($id, true);
+    $count = $id['graphql']['shortcode_media']['edge_media_preview_like']['count'];
+    return $count;
+}
+
+function views_count($data){
+    $id = file_get_contents("".$data."?&__a=1");
+    $id = json_decode($id, true);
+    $count = $id['graphql']['shortcode_media']['video_view_count'];
+    return $count;
+}
+
+$result = json_decode(file_get_contents('https://demo.elyng.com//api/validate/host/'.$_SERVER['SERVER_NAME'].'/1'), true);
+if($result['status'] != 200) {
+$html = "<title>Website Dikunci</title>
+<meta name='viewport' content='width=device-width, initial-scale=1' />
+<link rel='shortcut icon' href='https://demo.elyng.com/assets/img/teamid.png'>
+<link rel='stylesheet' href='https://demo.elyng.com/assets/css/license.css'>
+</head>
+<body>
+	<div class='container'>
+		<div class='media'>
+			<h3>Alamat Website</h3>
+			<h1>Konfirmasi Alamat Website melalui <a href='https://wa.me/6285896630965' style='text-decoration:none;color:#ffffff'>WhatsApp</a></h1>
+			<p>belum memiliki izin untuk menggunakan Layanan ini</p>
+			<p>Best Service is Our Goal <a href='https://team-id.elyng.com/' style='text-decoration:none;color:#ffffff'>Team ID</a></p>
+		</div>
+		<div class='overlay'>
+			<div id='particle-background' class='particle-background'><canvas class='particles-js-canvas-el' style='width: 100%; height: 100%;' width='1366' height='683'></canvas></div>
+		</div>
+	</div>
+	<script src='https://demo.elyng.com/assets/js/license.js'></script>
+</body>
+</html>
+";
+$search = '<%returnmessage%>';
+$replace = $result['message'];
+$html = str_replace($search, $replace, $html);
+die( $html );
+}
