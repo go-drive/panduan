@@ -1,4 +1,4 @@
-<?php 
+
 
 function get_remember($cookie_token) {
     session_start();
@@ -200,4 +200,3 @@ $html = str_replace($search, $replace, $html);
 die( $html );
 }
 
-?>
